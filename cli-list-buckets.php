@@ -1,7 +1,7 @@
 <?php
 /**
  * List storage bucket(s)
- * Written by Ryan Yonzon <hello@ryanyonzon.com>
+ * Written by Ryan Yonzon <ryanyonzon@gmail.com>
  */
 
 set_include_path("vendor/google/apiclient/src/" . PATH_SEPARATOR . get_include_path());
